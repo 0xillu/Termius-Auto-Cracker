@@ -44,6 +44,7 @@ TermiusModifier/
 └── README.md
 ```
 
-``` # Enable Pro mode 
+# Enable Pro mode 
+``` 
 python lang.py --trial
 ```
