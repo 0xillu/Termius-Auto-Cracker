@@ -34,6 +34,7 @@ Install the `asar` tool globally using npm:
 ```bash
 npm install -g asar
 ```
+```
 # Folder Structure
 TermiusModifier/
 ├── lang.py
@@ -41,6 +42,7 @@ TermiusModifier/
 │   ├── trial.txt
 │   └── skip_login.txt
 └── README.md
+```
 
 ``` # Enable Pro mode 
 python lang.py --trial
