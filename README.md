@@ -34,9 +34,10 @@ Install the `asar` tool using npm:
 ```bash
 npm install -g asar
 ```
-```
+
 # Folder Structure
 ### make sure that the lang.py and rules folder is in the resources folder of termius
+```
 C:\Users\%USERNAME%\AppData\Local\Programs\Termius\resources
 ├── lang.py
 ├── rules/
