@@ -1,4 +1,4 @@
-# 🧩 Termius Modifier (Trial + Skip Login)
+# 🧩 Termius Auto Cracker (Trial + Skip Login)
 
 A lightweight Python tool to modify **Termius Desktop**’s `app.asar` file, enabling the **Trial** mode or **Skip Login** screen — or both.
 
