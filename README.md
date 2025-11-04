@@ -29,22 +29,36 @@ You’ll need:
 - **Python 3.8+**
 - **Node.js + asar**
 
-Install the `asar` tool globally using npm:
+Install the `asar` tool using npm:
 
 ```bash
 npm install -g asar
 ```
 ```
 # Folder Structure
-TermiusModifier/
+### make sure that the lang.py and rules folder is in the resources folder of termius
+C:\Users\%USERNAME%\AppData\Local\Programs\Termius\resources
 ├── lang.py
 ├── rules/
 │   ├── trial.txt
 │   └── skip_login.txt
-└── README.md
+└── app.asar
 ```
 
-# Enable Pro mode 
+## Enable Pro mode 
 ``` 
 python lang.py --trial
 ```
+## Skip Login
+```
+python lang.py --skip-login
+```
+## Skip login and Enable Pro
+```
+python lang.py --trial --skip-login
+```
+
+
+
+
+
